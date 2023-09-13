@@ -8,4 +8,5 @@
 
 ## Usage
 
-img --env tf --folder ./
+- img --env tf --folder ./
+- img --pypi tsinghua/thinghoo
